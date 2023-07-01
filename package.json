@@ -1,0 +1,25 @@
+{
+  "name": "chat-room",
+  "version": "1.0.0",
+  "description": "Building a real time chat application with rooms in Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihirpathak267/chat-room.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihirpathak267/chat-room/issues"
+  },
+  "homepage": "https://github.com/mihirpathak267/chat-room#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.0"
+  }
+}
